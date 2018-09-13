@@ -3,8 +3,8 @@
 }
 
 h1 {
-	font-family: Lobster, monospace;
-	text-alignment: center;
+	font-family: Comic Sans MS, monospace;
+	font-size: 50px;
 }
 
 p {
@@ -12,7 +12,7 @@ p {
 	font-family: monospace;
 }
 
-.thick-pink-border {
+.pink-border {
 	border-color: pink;
 	border-width: 10px;
 	border-style: solid;
@@ -24,6 +24,10 @@ p {
 
 .silver-background {
 	background-color: silver;
+}
+
+.silver-background:hover {
+	background-color: white;
 }
 
 .nice-background {
