@@ -1,15 +1,19 @@
-.red-text {
-	color: red;
-}
-
 h1 {
 	font-family: Comic Sans MS, monospace;
 	font-size: 50px;
 }
 
+.red-text {
+	color: red;
+}
+
 p {
 	font-size: 20px;
 	font-family: monospace;
+}
+
+#cat-photo-form {
+	background-color: red;
 }
 
 .pink-border {
